@@ -9,7 +9,7 @@
     "--filesystem=home",
     "--share=network",
     "--share=ipc",
-    "--env=PATH=/app/bin:/app/jre/bin:/usr/bin"
+    "--env=JAVA_HOME=/app/jre"
   ],
   "modules": [
     {
