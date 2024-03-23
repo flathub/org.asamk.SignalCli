@@ -45,12 +45,20 @@
                 {
                     "type": "file",
                     "url": "https://raw.githubusercontent.com/AsamK/signal-cli/master/data/org.asamk.SignalCli.metainfo.xml",
-                    "sha256": "53f733498b9bd3834d07563bb2cfdfd43ddd7390abe81e5c1cb263b7e02e3287"
+                    "sha256": "ebd36f73ac592bb7b959a34fc555b31b8a2269a781f67fbdbfd2fed33319ecf0",
+                    "x-checker-data": {
+                        "type": "rotating-url",
+                        "url": "https://raw.githubusercontent.com/AsamK/signal-cli/master/data/org.asamk.SignalCli.metainfo.xml"
+                    }
                 },
                 {
                     "type": "file",
                     "url": "https://raw.githubusercontent.com/AsamK/signal-cli/master/data/org.asamk.SignalCli.svg",
-                    "sha256": "c2c20fb3e6da8f8add3a53dcbc12212f52e7347da1d3af4fae018d02f19b7d0c"
+                    "sha256": "c2c20fb3e6da8f8add3a53dcbc12212f52e7347da1d3af4fae018d02f19b7d0c",
+                    "x-checker-data": {
+                        "type": "rotating-url",
+                        "url": "https://raw.githubusercontent.com/AsamK/signal-cli/master/data/org.asamk.SignalCli.svg"
+                    }
                 }
             ]
         }
