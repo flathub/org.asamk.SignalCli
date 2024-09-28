@@ -45,7 +45,7 @@
                 {
                     "type": "file",
                     "url": "https://raw.githubusercontent.com/AsamK/signal-cli/master/data/org.asamk.SignalCli.metainfo.xml",
-                    "sha256": "9b51d53205c50b372b52d5aa6a3fdea0fde299f513fe3773e8ac7f9340494b50",
+                    "sha256": "3b7b4a9648ab48884d9edb67dc745b282d4aeb040c052f0ab6dc97ecbfe235d9",
                     "x-checker-data": {
                         "type": "rotating-url",
                         "url": "https://raw.githubusercontent.com/AsamK/signal-cli/master/data/org.asamk.SignalCli.metainfo.xml"
