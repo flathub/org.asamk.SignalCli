@@ -32,9 +32,9 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/AsamK/signal-cli/releases/download/v0.13.21/signal-cli-0.13.21.tar.gz",
+                    "url": "https://github.com/AsamK/signal-cli/releases/download/v0.13.22/signal-cli-0.13.22.tar.gz",
                     "dest": "signal-cli",
-                    "sha256": "739a11333ad0ddc67a9e5d10968e83ac34f40fa940c996ee2351b53fc0b4e79f",
+                    "sha256": "1453c2870d30d10a97f19267aa9c314b999fd8e7839555bc410c838d3a33380b",
                     "x-checker-data": {
                         "type": "json",
                         "url": "https://api.github.com/repos/asamk/signal-cli/releases/latest",
@@ -45,7 +45,7 @@
                 {
                     "type": "file",
                     "url": "https://raw.githubusercontent.com/AsamK/signal-cli/master/data/org.asamk.SignalCli.metainfo.xml",
-                    "sha256": "fbb4946765ed619dc20c63f707bb64ad8e34e0babfa228ce0d08478f14bd5bc3",
+                    "sha256": "fbf945dba72a515800e686cf52a220b9d2f06e20837f27796fb073dd32346f6f",
                     "x-checker-data": {
                         "type": "rotating-url",
                         "url": "https://raw.githubusercontent.com/AsamK/signal-cli/master/data/org.asamk.SignalCli.metainfo.xml"
